@@ -1,16 +1,12 @@
-.demo
-{
-	padding: 100px 0;
-
-}
 .heading-title
 {
 	margin-bottom: 70px;
 	font-size:18px;
-	font-family:sans-serif;
 	color: #58595a;
 }
-.main-timeline{ position: relative; }
+.main-timeline{
+	position: relative;
+}
 
 .main-timeline:before,
 .main-timeline:after{
@@ -69,6 +65,7 @@
     background: #ffffff;
     position: relative;
     transition: all 0.3s ease 0s;
+    font-family:'Droid Sans', sans-serif;
 }
 
 .main-timeline .red .timeline-content{
@@ -216,18 +213,14 @@
 {
 	margin-top:60px;
 	margin-bottom:60px;
-	font-size:18px;
-	font-family:sans-serif;
 	color: #58595a;
-}
-* {
-	font-family:'Droid Sans', sans-serif;
 }
 h1 {
 	font-weight:bold;
 	margin-top:50px;
 	margin-bottom:30px;
 	color: #58595a;
+	font-family:'Droid Sans', sans-serif;
 }
 .languages {
 	background:#333;
@@ -237,8 +230,6 @@ h1 {
 	padding:10px 20px;
 	display:block;
 	float:right;
-	font-size:16px;
-	font-family:sans-serif;
 }
 .languages a:hover {
 	text-decoration:none;
@@ -249,4 +240,6 @@ h1 {
 }
 body {
     background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+    min-height: 100vh;
+    font: normal 16px sans-serif;
 }
