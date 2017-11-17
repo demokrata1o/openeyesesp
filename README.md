@@ -1,4 +1,4 @@
-# gurtelcase.github.io
+# spanishgurtelcase.github.io
 
 El Cas Gürtel: El Major Cas de Corrupció del PP, les Estranyes Morts Associades i tot tapat amb la Independència de Catalunya
 https://spanishgurtelcase.github.io/index.ca.html
