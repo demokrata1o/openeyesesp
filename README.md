@@ -12,8 +12,9 @@ El Caso Gürtel: El Mayor Caso de Corrupción del PP, las Estrañas Muertes Asoc
 The Gürtel case: The Last Political Corruption Scandal of the Spanish Government and how the Catalan Independence is used to cover it
 - https://spanishgurtelcase.github.io/index.en.html
 
-Other related projects
+Related projects
 - https://spanishpolice.github.io
 - https://spanishradicals.github.io
+- https://spanishgurtelcase.github.io
 - https://spanishindoctrination.github.io
 - https://spanishfakenews.github.io
